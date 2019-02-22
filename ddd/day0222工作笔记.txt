@@ -1,0 +1,17 @@
+day0222工作笔记
+
+
+1.如何获取ip地址？
+    if request.META.has_key('HTTP_X_FORWARDED_FOR'):  
+        ip =  request.META['HTTP_X_FORWARDED_FOR']  
+    else:  
+        ip = request.META['REMOTE_ADDR']  
+		
+2.zip函数
+    names = 'id title content ref_date cusrname news_type pic groups users can_reply'.split()
+    data = [dict(zip(names, L))]
+    infoData = json.dumps(data,ensure_ascii=False)
+	
+3.查询djangoORM做了什么？
+python manage.py sqlmigrate blog 0001
+
