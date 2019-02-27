@@ -1,0 +1,570 @@
+day0225 星期一 工作笔记
+
+
+[{
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 12624.56,
+	"shengchan": 0.0,
+	"xingzheng": 12518.56,
+	"shichang": 106.0,
+	"leibie": "业务招待费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 49988.92,
+	"yewuzu": 4500.0,
+	"shejizu": 427.7,
+	"xinxiguanlibu": 0.0,
+	"row_total": 321094.03,
+	"shengchan": 17772.0,
+	"xingzheng": 110002.41,
+	"shichang": 3736.0,
+	"leibie": "交通运输费",
+	"cangguanzu": 6450.0,
+	"zongjingban": 8870.0,
+	"caiwubu": 0.0,
+	"shimuzu": 99347.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 12000.0,
+	"youqizu": 8000.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 5753.0,
+	"shengchan": 0.0,
+	"xingzheng": 5753.0,
+	"shichang": 0.0,
+	"leibie": "人员招聘费用",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 58891.0,
+	"shengchan": 0.0,
+	"xingzheng": 58891.0,
+	"shichang": 0.0,
+	"leibie": "保险费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 23910.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 83849.53,
+	"shengchan": 0.0,
+	"xingzheng": 54494.53,
+	"shichang": 0.0,
+	"leibie": "修理费",
+	"cangguanzu": 0.0,
+	"zongjingban": 5445.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 926.45,
+	"caigoubu": 4000.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 1.0,
+	"row_total": 332563.49,
+	"shengchan": 0.0,
+	"xingzheng": 327636.04,
+	"shichang": 0.0,
+	"leibie": "其他",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 185020.0,
+	"shengchan": 0.0,
+	"xingzheng": 185020.0,
+	"shichang": 0.0,
+	"leibie": "其他专项目支出",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 2271878.49,
+	"shengchan": 0.0,
+	"xingzheng": 2225817.0,
+	"shichang": 0.0,
+	"leibie": "办公租赁费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 46061.49,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 150.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 52155.01,
+	"shengchan": 0.0,
+	"xingzheng": 49524.04,
+	"shichang": 813.0,
+	"leibie": "办公费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 1667.97,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 26500.0,
+	"shengchan": 0.0,
+	"xingzheng": 0.0,
+	"shichang": 0.0,
+	"leibie": "咨询费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 26500.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 142800.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 179434.84,
+	"shengchan": 0.0,
+	"xingzheng": 36634.84,
+	"shichang": 0.0,
+	"leibie": "固定资产",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 3865565.4,
+	"shengchan": 0.0,
+	"xingzheng": 3865565.4,
+	"shichang": 0.0,
+	"leibie": "工资薪金",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 133.0,
+	"caigoubu": 0.0,
+	"yewuzu": 9189.77,
+	"shejizu": 295.8,
+	"xinxiguanlibu": 0.0,
+	"row_total": 16574.16,
+	"shengchan": 1500.0,
+	"xingzheng": 2995.72,
+	"shichang": 1259.59,
+	"leibie": "差旅费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 547.28,
+	"shimuzu": 653.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 6533.0,
+	"shengchan": 0.0,
+	"xingzheng": 6533.0,
+	"shichang": 0.0,
+	"leibie": "广告宣传费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 12965.5,
+	"shengchan": 0.0,
+	"xingzheng": 0.0,
+	"shichang": 0.0,
+	"leibie": "手续费用",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 12965.5,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 2.0,
+	"row_total": 167932.0,
+	"shengchan": 0.0,
+	"xingzheng": 167930.0,
+	"shichang": 0.0,
+	"leibie": "无形资产",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 438590.91,
+	"shengchan": 0.0,
+	"xingzheng": 438590.91,
+	"shichang": 0.0,
+	"leibie": "水电费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 342403.96,
+	"shengchan": 0.0,
+	"xingzheng": 342403.96,
+	"shichang": 0.0,
+	"leibie": "水电费代付款",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 15500.0,
+	"shengchan": 0.0,
+	"xingzheng": 0.0,
+	"shichang": 0.0,
+	"leibie": "消防安全费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 15500.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 70531.81,
+	"shengchan": 0.0,
+	"xingzheng": 70531.81,
+	"shichang": 0.0,
+	"leibie": "社保费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 609581.32,
+	"shengchan": 0.0,
+	"xingzheng": 609581.32,
+	"shichang": 0.0,
+	"leibie": "福利费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 3500.0,
+	"shengchan": 0.0,
+	"xingzheng": 3500.0,
+	"shichang": 0.0,
+	"leibie": "经营证照费用",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 7068.76,
+	"shengchan": 0.0,
+	"xingzheng": 7068.76,
+	"shichang": 0.0,
+	"leibie": "网络通讯费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 0.0,
+	"caigoubu": 0.0,
+	"yewuzu": 0.0,
+	"shejizu": 0.0,
+	"xinxiguanlibu": 0.0,
+	"row_total": 74992.89,
+	"shengchan": 0.0,
+	"xingzheng": 74992.89,
+	"shichang": 0.0,
+	"leibie": "邮电通讯费",
+	"cangguanzu": 0.0,
+	"zongjingban": 0.0,
+	"caiwubu": 0.0,
+	"shimuzu": 0.0,
+	"pinzhibu": 0.0,
+	"mugongzu": 0.0,
+	"youqizu": 0.0
+}, {
+	"gongchengzu": 1059.45,
+	"caigoubu": 220698.92,
+	"yewuzu": 13839.77,
+	"shejizu": 723.5,
+	"xinxiguanlibu": 3.0,
+	"row_total": 9161503.66,
+	"shengchan": 19272.0,
+	"xingzheng": 8655985.19,
+	"shichang": 5914.59,
+	"leibie": "col_total",
+	"cangguanzu": 6450.0,
+	"zongjingban": 14315.0,
+	"caiwubu": 87742.24,
+	"shimuzu": 100000.0,
+	"pinzhibu": 15500.0,
+	"mugongzu": 12000.0,
+	"youqizu": 8000.0
+}]
+
+
+select name,
+sum(case subjects when '语文' then score else 0 end) as '语文',
+sum(case subjects when '数学' then score else 0 end) as '数学', 
+sum(case subjects when '英语' then score else 0 end) as '英语'
+from user_score group by name;
+
+
+select name,
+sum(case subjects when '语文' then score else 0 end) as '语文',
+sum(case subjects when '数学' then score else 0 end) as '数学'
+from user_score group by name;
+
+
+select lp.id,op.cname,lp.mobile,m.txt1,ab.name,lp.scene_pic,lp.utime
+from labor_proj lp
+left join out_proj op  on lp.proj_id = op.id
+left join mtc_t m on m.id = lp.job and m.type = 'WTRADE'
+left join addr_book ab on ab.id = lp.team_id 
+where lp.labor_id = '{pk}'
+
+
+字段名称含义：
+-- gw_id 	公文ID
+-- cusrname 申请人
+-- ctime 	申请日期
+-- sn 		单号
+-- proj_id 	项目名称
+-- w_team 	劳务团队
+-- lwxy 	劳务施工承包协议
+-- total 	申请付款总额
+-- memo 	备注
+-- cksqhj 	出款申请合计
+-- wk_list 	劳务工明细
+
+
+-- gw_id 公文ID
+-- fk_wkid 付款申请公文ID
+-- proj_id 项目名称
+-- cusrname 申请人
+-- ctime 申请日期
+-- sn 申请单号
+-- fk_sn 付款申请单号
+-- team_name 劳务团队名称
+-- fk_total 付款申请总金额
+-- fk_lwxy 劳务施工承包协议
+-- fk_list 劳务工明细
+-- ck_total 出款申请合计
+-- cksqhj 历史出款明细
+-- yckhj 已出款申请合计
+-- zckhj 总出款申请合计
+-- PDF 付款申请书打印
+-- section 登记信息
+-- pay_class 支付方式
+-- capital_id 付款账号
+-- pay_memo 支付备注
+-- pay_date 实际支付日期
+-- pay_usr_name 出纳
+-- pay_usr_id 出纳ID
+-- status 付款状态
+
+
+-- gw_id 公文ID
+-- cusrname 申请人
+-- ctime 申请日期
+-- sn 单号
+-- proj_id 项目名称
+-- w_team 劳务团队
+-- lwxy 劳务施工承包协议
+-- wk_list 劳务工明细
+-- total 申请付款总额
+-- memo 备注
+-- cksqhj 出款申请合计
+
+-- status 付款状态
+-- pay_usr_id 出纳ID
+-- pay_usr_name 出纳
+-- pay_date 实际支付日期
+-- pay_memo 支付备注
+-- capital_id 付款账号
+-- pay_class 支付方式
+-- section 登记信息
+-- PDF 付款申请书打印
+-- zckhj 总出款申请合计
+-- yckhj 已出款申请合计
+-- cksqhj 历史出款明细
+-- ck_total 出款申请合计
+-- fk_list 劳务工明细
+-- fk_lwxy 劳务施工承包协议
+-- fk_total 付款申请总金额
+-- team_name 劳务团队名称
+-- proj_id 项目名称
+-- fk_sn 付款申请单号
+-- fk_wkid 付款申请公文ID
+-- sn 申请单号
+-- ctime 申请日期
+-- cusrname 申请人
+-- gw_id 公文ID
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

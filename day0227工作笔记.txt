@@ -1,0 +1,14 @@
+day0227工作笔记
+
+- NEWS_GROUP
+id			ID
+cname		分组名称
+is_all		全体人员
+depts		授权部门
+users		授权人员
+must_audit	必审选择
+sort		序号
+status		状态
+
+
+

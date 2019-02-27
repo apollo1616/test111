@@ -1,0 +1,37 @@
+day0026工作笔记 星期二
+
+#!/bin/bash
+# 主机地址
+ip='192.168.31.115'
+# 数据库
+data='apollo11'
+# 用户名
+user='root'
+
+password='root'
+
+path='/opt/test'
+
+select="create table user as select * from test_table where id =1;"
+
+mysql -h $ip -u$user -p$password --database $data  $select
+
+
+mysql -h $ip -u$user -p$password --database $data -e $select >$path/$(date +%Y-%m-%d)_chongzhi.txt
+
+
+C:\Users\Administrator>"C:\Program Files\RabbitMQ Server\rabbitmq_server-3.7.12\sbin\rabbitmq-plugins.bat" enable rabbitmq_management
+Enabling plugins on node rabbit@PC-201809051138:
+rabbitmq_management
+The following plugins have been configured:
+  rabbitmq_management
+  rabbitmq_management_agent
+  rabbitmq_web_dispatch
+Applying plugin configuration to rabbit@PC-201809051138...
+The following plugins have been enabled:
+  rabbitmq_management
+  rabbitmq_management_agent
+  rabbitmq_web_dispatch
+
+set 3 plugins.
+Offline change; changes will take effect at broker restart.
